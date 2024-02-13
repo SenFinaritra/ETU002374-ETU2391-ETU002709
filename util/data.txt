@@ -1,0 +1,2 @@
+insert into Tclients values (null,'admin','admin@gmail.com',0,'admin');
+insert into Tclients values (null,'client','client@gmail.com',1,'client');
